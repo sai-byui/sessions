@@ -1,4 +1,4 @@
-# sessions
+# Sessions
 
 Copyright - Society for Artificial Intelligence - BYUI
 
